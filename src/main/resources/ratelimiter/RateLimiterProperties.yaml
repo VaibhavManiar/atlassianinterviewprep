@@ -1,0 +1,4 @@
+type: FIXED_WINDOW
+max_allowed_request_count: 1000
+window_size: 10000
+enabled: true
